@@ -1,0 +1,13 @@
+#nav-container{
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    gap:15px;
+    border-bottom: 2px solid white;
+}
+#nav-container a{
+ color:white;
+ text-decoration: none;
+ 
+}
