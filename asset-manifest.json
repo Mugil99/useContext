@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/useContext/static/css/main.073c9b0a.css",
-    "main.js": "/useContext/static/js/main.c6c3962a.js",
-    "static/js/787.a607131f.chunk.js": "/useContext/static/js/787.a607131f.chunk.js",
-    "static/media/logo.svg": "/useContext/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/useContext/index.html",
-    "main.073c9b0a.css.map": "/useContext/static/css/main.073c9b0a.css.map",
-    "main.c6c3962a.js.map": "/useContext/static/js/main.c6c3962a.js.map",
-    "787.a607131f.chunk.js.map": "/useContext/static/js/787.a607131f.chunk.js.map"
+    "main.css": "/SignUp-Profile/static/css/main.7efc9462.css",
+    "main.js": "/SignUp-Profile/static/js/main.f5bb0a29.js",
+    "static/js/787.a607131f.chunk.js": "/SignUp-Profile/static/js/787.a607131f.chunk.js",
+    "static/media/logo.svg": "/SignUp-Profile/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SignUp-Profile/index.html",
+    "main.7efc9462.css.map": "/SignUp-Profile/static/css/main.7efc9462.css.map",
+    "main.f5bb0a29.js.map": "/SignUp-Profile/static/js/main.f5bb0a29.js.map",
+    "787.a607131f.chunk.js.map": "/SignUp-Profile/static/js/787.a607131f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c6c3962a.js"
+    "static/css/main.7efc9462.css",
+    "static/js/main.f5bb0a29.js"
   ]
 }
